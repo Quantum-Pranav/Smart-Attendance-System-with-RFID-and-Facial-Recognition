@@ -22,12 +22,12 @@
 
 // =================== USER CONFIGURATION ===================
 // --- WiFi Credentials ---
-const char* ssid = "MQTT";
-const char* password = "pranav123";
+const char* ssid = "YOURSSID";
+const char* password = "YOURPASS";
 
 // --- Telegram Bot Settings ---
-#define BOTtoken "7814906387:AAFmNdShYNFtxWm2BUXOh_19Zxu6exDjye8" 
-#define CHAT_ID "1460578040"
+#define BOTtoken "7814906387:AAFmNdS" 
+#define CHAT_ID "14600"
 
 // --- NTP Time Settings ---
 const char* ntpServer = "pool.ntp.org";
