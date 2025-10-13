@@ -1,4 +1,4 @@
-# Smart-Attendance-System-with-RFID-and-Facial-Recognition
+# Smart Attendance System with RFID and Facial Recognition
 Electronics and Communication Engg. Dept. NIT RAIPUR (5th Sem)
 1. Ashhad
 2. Ganga
