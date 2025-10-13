@@ -1,7 +1,9 @@
-# AI-Powered Dual-Factor Smart Attendance System
-
-This repository contains the complete source code for a smart attendance system that uses **AI-based facial recognition** and **RFID technology** for secure, two-factor authentication. The project is built on a two-MCU architecture, leveraging an ESP32-CAM for vision processing and a standard ESP32 for control and communication.
-
+# Smart-Attendance-System-with-RFID-and-Facial-Recognition
+Electronics and Communication Dept. NIT RAIPUR (5th Sem)
+1. Ashhad
+2. Ganga
+3. Pranav
+4. Swarup
 
 
 ## 🚀 Key Features
