@@ -1,5 +1,5 @@
 # Smart-Attendance-System-with-RFID-and-Facial-Recognition
-Electronics and Communication Dept. NIT RAIPUR (5th Sem)
+Electronics and Communication Engg. Dept. NIT RAIPUR (5th Sem)
 1. Ashhad
 2. Ganga
 3. Pranav
