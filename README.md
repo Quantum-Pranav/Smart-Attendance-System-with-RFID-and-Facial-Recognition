@@ -36,8 +36,8 @@ The system operates using two microcontrollers communicating over a UART serial 
 
 This repository is divided into two main directories, one for each microcontroller:
 
-* `ESP32-CAM_Face_Recognition/`: Contains the Arduino sketch for the ESP32-CAM module. This code handles the camera, the Edge Impulse AI model, SD card logging, and faculty reporting.
-* `ESP32_RFID_Controller/`: Contains the Arduino sketch for the main ESP32 controller. This code manages the RFID reader, LCD, student database, and sends personalized notifications to students.
+* `FINAL_ESPCAM_TELE/`: Contains the Arduino sketch for the ESP32-CAM module. This code handles the camera, the Edge Impulse AI model, SD card logging, and faculty reporting.
+* `TOTAL_ESP32_FINAL/`: Contains the Arduino sketch for the main ESP32 controller. This code manages the RFID reader, LCD, student database, and sends personalized notifications to students.
 
 ## ⚙️ Hardware Required
 
