@@ -8,10 +8,10 @@
 #include <LiquidCrystal_I2C.h>
 
 // ==== Wi-Fi & Telegram Configuration ====
-const char* ssid = "MQTT";
-const char* password = "pranav123";
+const char* ssid = "YOURSSID";
+const char* password = "YOURPASS"; 
 
-#define BOT_TOKEN "7814906387:AAFmNdShYNFtxWm2BUXOh_19Zxu6exDjye8"
+#define BOT_TOKEN "781490xu6exDjye8"
 // Note: A default CHAT_ID is no longer used, we use the student-specific ones.
 
 WiFiClientSecure client;
@@ -43,16 +43,16 @@ const int classCount = 20; // total number of classes
 const int numStudents = 4;
 String studentNames[numStudents] = {"PRANAV", "GANGA", "ASHHAD", "SWARUP"};
 String UIDs[numStudents] = {
-  "3D D4 8E 02",  // Pranav
-  "57 CD 8C 02",  // Ganga
-  "87 C3 93 02",  // Ashhad
-  "83 04 D6 2C"   // Swarup
+  "3D D4 8E XX",  // Pranav
+  "57 CD 8C XX",  // Ganga
+  "87 C3 93 XX",  // Ashhad
+  "83 04 D6 XX"   // Swarup
 };
 String chatIDs[numStudents] = {
-  "1460578040",   // Pranav
-  "5728949650",   // Ganga
-  "7558227990",   // Ashhad
-  "1885855855"    // Swarup
+  "1460578XXX",   // Pranav
+  "5728949XXX",   // Ganga
+  "7558227XXX",   // Ashhad
+  "1885855XXX"    // Swarup
 };
 int attended[numStudents] = {0, 0, 0, 0};
 String recognizedFaceName = ""; // Stores the name from the camera
