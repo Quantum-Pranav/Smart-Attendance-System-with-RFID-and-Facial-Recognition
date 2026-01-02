@@ -26,8 +26,11 @@ const char* ssid = "YOURSSID";
 const char* password = "YOURPASS";
 
 // --- Telegram Bot Settings ---
-#define BOTtoken "7814906387:AAFmNdS" 
-#define CHAT_ID "14600"
+#define BOTtoken "YOUR_BOT_TOKEN"
+#define CHAT_ID "YOUR_CHAT_ID"
+ 
+
+
 
 // --- NTP Time Settings ---
 const char* ntpServer = "pool.ntp.org";
