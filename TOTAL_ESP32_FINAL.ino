@@ -11,7 +11,8 @@
 const char* ssid = "YOURSSID";
 const char* password = "YOURPASS"; 
 
-#define BOT_TOKEN "781490xu6exDjye8"
+#define BOTtoken "YOUR_BOT_TOKEN"
+
 // Note: A default CHAT_ID is no longer used, we use the student-specific ones.
 
 WiFiClientSecure client;
